@@ -1,12 +1,12 @@
 import React from 'react';
 import TournamentForm from '../components';
 
-function App() {
+function Home() {
   return (
-    <div className="App">
+    <div>
       <TournamentForm/>
     </div>
   );
 }
 
-export default App;
+export default Home;
